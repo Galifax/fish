@@ -7,7 +7,7 @@ $this->title = 'ABC Fishing';
 
 <div class="site-index">
     <div class="body-content">
-        <p class="lead">ИНТЕРНЕТ-МАГАЗИН ДЛЯ РЫБАЛКИ №1 В КИЕВЕ И УКРАИНЕ</p>
+        <p class="lead">ИНТЕРНЕТ-МАГАЗИН ДЛЯ РЫБАЛКИ №1 В КИЕВЕ И УКРАИНЕ И МИРЕ</p>
         <div class="row">
         <?php foreach($category as $cat){?>
          <div class="col-md-3 items">
